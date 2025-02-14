@@ -17,4 +17,5 @@ The primary goal of this project is to showcase the practical implementation of 
 
 This project can be adapted for various purposes, such as dating apps, employee directories, social media platforms, or portfolio sites to display user profiles dynamically.
 
+## You can checkout the website here https://bipinchand-git.github.io/ProfileScroller/
 Enjoy using the Profile Scroller!
